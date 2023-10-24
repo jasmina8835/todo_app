@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.head1{
+    padding-bottom: 100px;
+    background-color: red;
+    margin: auto;
+}
+
+.head2{
+    padding-top: 150px;
+}
+
+button{
+    padding-top: 100px;
+}

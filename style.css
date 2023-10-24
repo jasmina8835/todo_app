@@ -1,22 +1,20 @@
-.width{
-    width: 400px;
-    height: 400px;
-    background-color: crimson;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-span{
-    width: 400px;
-    background-color: blue;
+.box{
+    margin:20px 100px;
 }
 
-.demo{
-    width: 200px;
-    height: 200px;
+ul{
     background-color: black;
-    border-radius: 50%;
+    color: white;
+    padding: 20px;
 }
 
-.maxw{
-    max-width: 500px;
-    background-color: orange;
+img{
+    width: 150px;
+    height: 200px;
 }
