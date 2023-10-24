@@ -17,3 +17,28 @@
 button{
     padding-top: 100px;
 }
+
+.outline{
+    padding: 10px;
+    bottom: 1px solid red;
+    margin: 30px;
+    outline-style: solid;
+    outline-offset: 4px;
+    outline-color: aqua;
+    outline-width: 10px;
+}
+
+input{
+    outline: none;
+}
+
+.center{
+    text-align: center;
+    text-align: left;
+    text-align: right;
+}
+
+.just{
+    text-align: justify;
+    text-align-last: right;
+}
