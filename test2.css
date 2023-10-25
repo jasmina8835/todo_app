@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.decoration{
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: line-through underline overline;
+    text-decoration-style:dotted ;
+    text-decoration-color: blueviolet;
+    text-decoration-thickness: 1px;
+}
+
+.transform{
+    text-transform: uppercase;
+    text-transform: capitalize;
+}
+.transform1{
+    text-transform: lowercase;
+}
+
+.for_image{
+    margin-top: 100px;
+    border-top: 2px solid black;
+    background-image: url(./photo-1529778873920-4da4926a72c2\ \(1\).avif);
+    height: 100vh;
+    width: 80vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+}
+
+a{
+    text-decoration: none;
+}
